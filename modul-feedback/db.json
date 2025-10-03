@@ -1,0 +1,38 @@
+{
+  "assignments": [
+    {
+      "id": 1,
+      "title": "PHP Programming Assignment",
+      "description": "Create a simple PHP application",
+      "due_date": "2025-10-15",
+      "max_points": 100,
+      "grading_criteria": {
+        "functionality": 40,
+        "code_quality": 30,
+        "documentation": 30
+      },
+      "submissions": [
+        {
+          "student_id": "student1",
+          "student_name": "John Doe",
+          "submitted_file": "assignment1_john.php",
+          "submission_date": "2025-10-12 14:30:00",
+          "status": "submitted",
+          "grade": {
+            "points_earned": 85,
+            "percentage": 85,
+            "breakdown": {
+              "functionality": 35,
+              "code_quality": 25,
+              "documentation": 25
+            },
+            "feedback": "Good work on functionality, but needs better documentation.",
+            "graded_by": "teacher1",
+            "graded_date": "2025-10-13 10:00:00"
+          },
+          "private_comments": []
+        }
+      ]
+    }
+  ]
+}
